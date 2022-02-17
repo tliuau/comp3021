@@ -1,1 +1,2 @@
-# comp3021
+# COMP3021
+Java notes
